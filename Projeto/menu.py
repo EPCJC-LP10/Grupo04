@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: iso8859-1 -*-
 
 def principal():
     print
