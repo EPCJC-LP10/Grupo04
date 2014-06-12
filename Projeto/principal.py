@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding:iso8859-1 -*-
 
 import menu
 import alunos
@@ -30,7 +30,7 @@ while not terminar:
     if op == '1':
         alunos.gerir()
     elif op == '2':
-        pass    #por fazer
+        horarios.gerir()
     elif op == '0':
         terminar = True
 

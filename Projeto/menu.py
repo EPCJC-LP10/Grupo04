@@ -4,8 +4,9 @@ def principal():
     print
     print " **** MENU ****** "
     print
-    print "   1. Gest√£o de Alunos"
-    print "   2. Registar Presen√ßa (n√£o implementado)"
+    print "   1. Gest„o de Alunos"
+    print "   2. Gest„o hor·rios"
+    print "   3. Registar PresenÁa"
     print 
     print "   0. Sair"
     print 
